@@ -1,0 +1,15 @@
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.csproj.AssemblyReference.cache
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.AssemblyInfoInputs.cache
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.AssemblyInfo.cs
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.csproj.CoreCompileInputs.cache
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\bin\Debug\net8.0\ReservaFacil.Infra.deps.json
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\bin\Debug\net8.0\ReservaFacil.Infra.dll
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\bin\Debug\net8.0\ReservaFacil.Infra.pdb
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\bin\Debug\net8.0\ReservaFacil.Dominio.dll
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\bin\Debug\net8.0\ReservaFacil.Dominio.pdb
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.csproj.CopyComplete
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.dll
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\refint\ReservaFacil.Infra.dll
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ReservaFacil.Infra.pdb
+C:\Users\BrunoTomm\Desktop\ReservaFacil\ReservaFacil.Infra\obj\Debug\net8.0\ref\ReservaFacil.Infra.dll

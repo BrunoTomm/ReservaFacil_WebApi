@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  reservafacil.webapi:
+    image: ${DOCKER_REGISTRY-}reservafacilwebapi
+    ports: 
+      - "51770:8080"
+    build:
+      context: .
+      dockerfile: ReservaFacil.WebApi/Dockerfile

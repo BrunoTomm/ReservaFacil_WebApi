@@ -1,0 +1,6 @@
+@ReservaFacil.WebApi_HostAddress = http://localhost:5231
+
+GET {{ReservaFacil.WebApi_HostAddress}}/eventos/
+Accept: application/json
+
+###

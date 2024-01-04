@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReservaFacil.WebApi.props" />
+</Project>
