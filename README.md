@@ -8,13 +8,14 @@ A API ReservaFacil permite que você faça reservas de maneira simplificada em e
 
 2. Para criar as tabelas no banco de dados, execute as migrações do Entity Framework. Abra o Terminal no Visual Studio (Ferramentas > Gerenciador de Pacotes do NuGet > Console do Gerenciador de Pacotes), selecione o projeto ReservaFacil.Infra e execute o comando `Update-Database` após configurar a conexão. Isso criará as tabelas no seu banco de dados.
  - Nesta migration, ja foi criado no banco de dados na tabela de USUARIO, um usário padrão, ficticio, somente para fins de autenticação:
+ <br>
  Nome: Admin
  <br>
  Email: admin@exemplo.com
   <br>
  IdUsuario: BEC019F0-B73A-4A56-9A8C-F9246B9919E3
   <br>
-
+ <br>
 3. Na pasta raiz do projeto, você encontrará um arquivo chamado `Build.bat`. Execute este arquivo para iniciar o Docker e provisionar a imagem necessária. Após a conclusão deste processo, a API estará totalmente operacional (Caso queira utilizar pelo Docker > `http://localhost:51770/swagger/index.html`). Caso não, basta inicializar o projeto no Visual Studio.
 
 ## Uso da API
